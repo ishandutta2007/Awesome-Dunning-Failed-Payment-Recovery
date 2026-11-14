@@ -1,6 +1,6 @@
 # Awesome-Dunning-Failed-Payment-Recovery
 
-# Top Dunning & Failed Payment Recovery Ecosystem
+## Top Dunning & Failed Payment Recovery Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Smart Retries, Failed Payment Recovery & Involuntary Churn Prevention*  
