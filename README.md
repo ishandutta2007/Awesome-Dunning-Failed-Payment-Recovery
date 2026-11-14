@@ -56,9 +56,9 @@ The table below details commercial platforms for automated dunning and involunta
 
 Self-hosted dunning engines and open-source subscription infrastructure provide total control over payment credentials, avoid revenue-cut percentage fees, and enable customized smart-retry algorithms. 💻
 
-The repositories below are sorted in descending order of GitHub star count:
+The repositories below are sorted in descending order of GitHub Stars_Count:
 
-| Project | Stars | Language / Stack | License | Description |
+| Project | GitHub_Stars | Language / Stack | License | Description |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Lago](https://github.com/getlago/lago)** 🌊 | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Go, Ruby, TypeScript | AGPL-3.0 | API-first, open-source metering and billing infrastructure. Features automated overdue invoice management, customer-level dunning policies, programmatic retry endpoints (`/invoices/:id/retry_payment`), secure customer payment-update URLs, and webhook hooks for building automated recovery workflows. |
 | **[Kill Bill](https://github.com/killbill/killbill)** ⚡ | [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Java | Apache-2.0 | The open-source subscription billing and payments engine standard. Features a modular payment control architecture with configurable overdue rules, multistep dunning matrices, automated state transitions, and pluggable retry processors for payment gateways. |
